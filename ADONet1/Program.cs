@@ -12,16 +12,6 @@ namespace ADONet1
         static void Main(string[] args)
         {
             new SqlQuery();
-            //FileInputTextQueries FInput = new FileInputTextQueries();
-            //List<string> list = new List<string>();
-            //list = FInput.GetQueriesList();
-
-            //foreach (var s in list)
-            //{
-            //    Console.WriteLine(s);
-            //    Console.WriteLine();
-            //}
-            //Console.ReadLine();
         }
     }
 }

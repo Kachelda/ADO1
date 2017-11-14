@@ -15,7 +15,6 @@ namespace ADONet1.QueryData
             {
                 //using (StreamReader sr = new StreamReader("Queries.txt"))
                 //{
-                    
                 //}
                 queriesList = File.ReadAllLines("Queries.txt", Encoding.GetEncoding(1251)).ToList();
             }
