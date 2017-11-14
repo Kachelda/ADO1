@@ -1,0 +1,7 @@
+D:\work\projects\ADONet1\ADONet1\obj\Debug\ADONet1.csprojResolveAssemblyReference.cache
+D:\work\projects\ADONet1\ADONet1\obj\Debug\ADONet1.csproj.CoreCompileInputs.cache
+D:\work\projects\ADONet1\ADONet1\bin\Debug\ADONet1.exe.config
+D:\work\projects\ADONet1\ADONet1\bin\Debug\ADONet1.exe
+D:\work\projects\ADONet1\ADONet1\bin\Debug\ADONet1.pdb
+D:\work\projects\ADONet1\ADONet1\obj\Debug\ADONet1.exe
+D:\work\projects\ADONet1\ADONet1\obj\Debug\ADONet1.pdb
